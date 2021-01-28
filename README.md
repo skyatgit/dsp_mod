@@ -8,3 +8,6 @@ Trash.dll-垃圾桶mod<br>
 该功能不影响手动向箱子里放物品，只影响自动化限制为0的箱子<br>
 目前没有做根据不同的物品回报不同数量的沙土的功能<br>
 演示视频 https://www.bilibili.com/video/BV1JT4y1K7U7
+
+showBirthStar.dll-显示初始星系mod<br>
+按教程安装后新建游戏时即可看到初始星系的星球种类
