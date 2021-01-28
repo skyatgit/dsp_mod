@@ -11,3 +11,4 @@ Trash.dll-垃圾桶mod<br>
 
 showBirthStar.dll-显示初始星系mod<br>
 按教程安装后新建游戏时即可看到初始星系的星球种类
+演示视频 https://www.bilibili.com/video/BV12o4y1R7Kv
