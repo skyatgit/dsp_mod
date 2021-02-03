@@ -13,8 +13,8 @@ showBirthStar.dll-显示初始星系mod<br>
 按教程安装后新建游戏时即可看到初始星系的星球种类<br>
 演示视频 https://www.bilibili.com/video/BV12o4y1R7Kv<br>
 showBirthStar_1.1.dll-更新<br>
-显示各个星球的词条
-
+显示各个星球的词条<br>
+演示视频https://www.bilibili.com/video/BV15N411o7eg
 
 RemarksMod.dll-恒星备注mod<br>
 游戏内按V键进入星图界面之后点击某一恒星拉近镜头后再次点击该恒星将会弹出添加备注的窗口<br>
