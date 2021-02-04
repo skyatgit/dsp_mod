@@ -14,7 +14,10 @@ showBirthStar.dll-显示初始星系mod<br>
 演示视频 https://www.bilibili.com/video/BV12o4y1R7Kv<br>
 showBirthStar_1.1.dll-更新<br>
 显示各个星球的词条<br>
-演示视频https://www.bilibili.com/video/BV15N411o7eg
+演示视频https://www.bilibili.com/video/BV15N411o7eg<br>
+showBirthStar_2.0.dll-更新<br>
+增加条件搜索的功能<br>
+
 
 RemarksMod.dll-恒星备注mod<br>
 游戏内按V键进入星图界面之后点击某一恒星拉近镜头后再次点击该恒星将会弹出添加备注的窗口<br>
@@ -32,3 +35,5 @@ QTools_2.0.dll-量化工具mod-更新<br>
 每一步使用的合成台的种类可以改变<br>
 QTools_2.1.dll-量化工具mod-更新<br>
 修复了低分辨率下显示不全的问题<br>
+QTools_2.2.dll-量化工具mod-更新<br>
+修复了高分辨率下图标太小的问题<br>
