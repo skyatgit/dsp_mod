@@ -17,7 +17,7 @@ showBirthStar_1.1.dll-更新<br>
 演示视频https://www.bilibili.com/video/BV15N411o7eg<br>
 showBirthStar_2.0.dll-更新<br>
 增加条件搜索的功能<br>
-
+演示视频https://www.bilibili.com/video/BV1FU4y1x7hT<br>
 
 RemarksMod.dll-恒星备注mod<br>
 游戏内按V键进入星图界面之后点击某一恒星拉近镜头后再次点击该恒星将会弹出添加备注的窗口<br>
