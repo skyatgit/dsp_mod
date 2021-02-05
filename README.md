@@ -57,6 +57,6 @@ QTools_ 3.0.dll-quantification tool mod major update<br>
 QTools_3.1.dll-量化工具mod-修复BUG<br>
 修复了光标在输入框时按键无法关闭GUI的问题
 
-QTools_3.1.DLL quantification tool mod repair bug <br>
+QTools_3.1.DLL quantification tool mod-repair bug <br>
 Fixed the problem that the GUI could not be closed when the cursor was in the input box
 
