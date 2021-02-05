@@ -39,7 +39,7 @@ QTools_2.2.dll-量化工具mod-更新<br>
 修复了高分辨率下图标太小的问题<br>
 
 QTools_3.0.dll-量化工具mod-重大更新<br>
-1.按键设置为 按backquote键(ESC下方)打开GUI后再次按`可关闭GUI<br>
+1.按键设置为 按backquote键(ESC下方)打开GUI后再次按可关闭GUI<br>
 2.选中某个物品的合成表后如果想返回,按Backspace键即可<br>
 3.增加工厂总数的统计<br>
 4.使用鼠标拖拽的方式代替之前的滑动条<br>
