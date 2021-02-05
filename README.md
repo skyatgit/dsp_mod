@@ -53,3 +53,10 @@ QTools_ 3.0.dll-quantification tool mod major update<br>
 4.Use mouse drag to replace the previous slider<br>
 5.Use the mouse wheel to zoom in and out the font and icon<br>
 6.Add English translation, when the game language is adjusted to non Chinese, mod displays English language<br>
+
+QTools_3.1.dll-量化工具mod-修复BUG<br>
+修复了光标在输入框时按键无法关闭GUI的问题
+
+QTools_ 3.1. DLL quantification tool mod repair bug <br>
+Fixed the problem that the GUI could not be closed when the cursor was in the input box
+
