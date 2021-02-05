@@ -44,12 +44,12 @@ QTools_3.0.dll-量化工具mod-重大更新<br>
 3.增加工厂总数的统计<br>
 4.使用鼠标拖拽的方式代替之前的滑动条<br>
 5.使用鼠标滚轮可以放大缩小字体和图标<br>
-4.加入了英文翻译,当游戏语言调整为非中文时mod显示英文语言<br>
+6.加入了英文翻译,当游戏语言调整为非中文时mod显示英文语言<br>
 
 QTools_ 3.0.dll-quantification tool mod major update<br>
-1. Set the key to press the backquote key to open the GUI, and then press it again to close the GUI<br>
-2. After selecting the composition table of an item, if you want to return, press the backspace key<br>
-3. Increase the statistics of the total number of factories<br>
-4. Use mouse drag to replace the previous slider<br>
-5. Use the mouse wheel to zoom in and out the font and icon<br>
-4. Add English translation, when the game language is adjusted to non Chinese, mod displays English language<br>
+1.Set the key to press the backquote key to open the GUI, and then press it again to close the GUI<br>
+2.After selecting the composition table of an item, if you want to return, press the backspace key<br>
+3.Increase the statistics of the total number of factories<br>
+4.Use mouse drag to replace the previous slider<br>
+5.Use the mouse wheel to zoom in and out the font and icon<br>
+6.Add English translation, when the game language is adjusted to non Chinese, mod displays English language<br>
