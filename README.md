@@ -46,7 +46,6 @@ QTools_3.0.dll-量化工具mod-重大更新<br>
 5.使用鼠标滚轮可以放大缩小字体和图标<br>
 6.加入了英文翻译,当游戏语言调整为非中文时mod显示英文语言<br>
 演示视频https://www.bilibili.com/video/BV14h411C7Zz<br>
-
 QTools_ 3.0.dll-quantification tool mod major update<br>
 1.Set the key to press the backquote key to open the GUI, and then press it again to close the GUI<br>
 2.After selecting the composition table of an item, if you want to return, press the backspace key<br>
@@ -66,9 +65,9 @@ QTools_3.2.dll-量化工具mod-更新<br>
 在计算图中如果某个工厂的性能未完全使用,则它的数量会被标记为红色(比如实际需要12.5个工厂,会显示13个工厂,但是会被标记为红色)<br>
 在计算图中如果想要将整个图中的合成台切换为指定型号,则只需切换任意一个合成台到指定型号,然后点击鼠标右键即可将全图的合成台的类型切换为指定的类型<br>
 在计算图中如果想要切换整个图中的某个物品的合成配方为指定配方,则只需切换任意一个该物品的配方到指定配方,然后右键即可将全图的该物品的合成配方进行切换<br>
-
+演示视频https://www.bilibili.com/video/BV1Uv411e7TK/<br>
 QTools_ 3.2.dll-quantification tool mod-update<br>
 In the calculation chart, if the performance of a factory is not fully used, its quantity will be marked in red (for example, if 12.5 factories are needed, 13 factories will be displayed, but they will be marked in red)<br>
 In the calculation diagram, if you want to switch the synthesizer in the whole diagram to the specified model, you only need to switch any synthesizer to the specified model, and then click the right mouse button to switch the type of the synthesizer in the whole diagram to the specified type<br>
 In the calculation diagram, if you want to switch the composition formula of an article in the whole diagram to the specified formula, you only need to switch the formula of any article to the specified formula, and then right-click to switch the composition formula of the article in the whole diagram<br>
-
+video https://www.bilibili.com/video/BV1Uv411e7TK/<br>
