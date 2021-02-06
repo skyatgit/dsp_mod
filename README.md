@@ -62,3 +62,13 @@ QTools_3.1.dll-量化工具mod-修复BUG<br>
 QTools_3.1.DLL quantification tool mod-repair bug <br>
 Fixed the problem that the GUI could not be closed when the cursor was in the input box<br>
 
+QTools_3.2.dll-量化工具mod-更新<br>
+在计算图中如果某个工厂的性能未完全使用,则它的数量会被标记为红色(比如实际需要12.5个工厂,会显示13个工厂,但是会被标记为红色)<br>
+在计算图中如果想要将整个图中的合成台切换为指定型号,则只需切换任意一个合成台到指定型号,然后点击鼠标右键即可将全图的合成台的类型切换为指定的类型<br>
+在计算图中如果想要切换整个图中的某个物品的合成配方为指定配方,则只需切换任意一个该物品的配方到指定配方,然后右键即可将全图的该物品的合成配方进行切换<br>
+
+QTools_ 3.2.dll-quantification tool mod-update<br>
+In the calculation chart, if the performance of a factory is not fully used, its quantity will be marked in red (for example, if 12.5 factories are needed, 13 factories will be displayed, but they will be marked in red)<br>
+In the calculation diagram, if you want to switch the synthesizer in the whole diagram to the specified model, you only need to switch any synthesizer to the specified model, and then click the right mouse button to switch the type of the synthesizer in the whole diagram to the specified type<br>
+In the calculation diagram, if you want to switch the composition formula of an article in the whole diagram to the specified formula, you only need to switch the formula of any article to the specified formula, and then right-click to switch the composition formula of the article in the whole diagram<br>
+
