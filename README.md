@@ -23,7 +23,11 @@ RemarksMod.dll-恒星备注mod<br>
 游戏内按V键进入星图界面之后点击某一恒星拉近镜头后再次点击该恒星将会弹出添加备注的窗口<br>
 如果该恒星之前添加过备注则点击之后添加备注的窗口内会显示之前的备注以供方便修改<br>
 所有的种子相同且星系数量相同的种子共用同一套备注<br>
-演示视频 https://www.bilibili.com/video/BV1YT4y1P7K4
+演示视频 https://www.bilibili.com/video/BV1YT4y1P7K4<br>
+
+SuperStation.dll-超级运输站mod<br>
+修改了运输站选择物品时的逻辑,现在可以多个格子放同一种类型了~<br>
+演示视频https://www.bilibili.com/video/BV1wy4y1Y767/<br>
 
 QTools.dll-量化工具mod<br>
 游戏内按"`"键（一般在ESC下方）呼出工具<br>
