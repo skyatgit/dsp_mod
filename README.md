@@ -1,3 +1,3 @@
 # 《戴森球计划》mod
-其他mod正在重置,请看
+已迁移
 https://github.com/dsp-mod
